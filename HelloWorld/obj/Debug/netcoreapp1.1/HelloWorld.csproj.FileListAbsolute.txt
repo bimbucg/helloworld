@@ -1,0 +1,10 @@
+H:\CgBims_Workouts\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.deps.json
+H:\CgBims_Workouts\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.runtimeconfig.json
+H:\CgBims_Workouts\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.runtimeconfig.dev.json
+H:\CgBims_Workouts\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.dll
+H:\CgBims_Workouts\HelloWorld\HelloWorld\bin\Debug\netcoreapp1.1\HelloWorld.pdb
+H:\CgBims_Workouts\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.csprojResolveAssemblyReference.cache
+H:\CgBims_Workouts\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.csproj.CoreCompileInputs.cache
+H:\CgBims_Workouts\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.AssemblyInfo.cs
+H:\CgBims_Workouts\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.dll
+H:\CgBims_Workouts\HelloWorld\HelloWorld\obj\Debug\netcoreapp1.1\HelloWorld.pdb
